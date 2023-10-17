@@ -1,0 +1,23 @@
+Dave Arneson, 300, euro, Ruble
+Gary Gygax, 246, USdollar, AlgerianDinar
+Eric Holmes, 125, CanadianDollar, Pound
+Tim Kask, 638, AusDollar, BritishPound
+Jeff Easley, 212, ausdollar, GhanaCedi
+Margaret Weis, 353, GBP, AlgerianDinar
+R.A. Salvatore, 668, Dollar, AngolaKwanza
+Lorraine Williams, 967, Euro, ZimbabweanDollar
+Greg Bell, 168, britishpound, EgyptianPound
+Ed Stark, 169, aussiedollar, Cape Verde Escudo
+Monte Cook, 668, GBP, ZimbabweanDollar
+Bill Slavicsek, 759, usdollar, GambianDalasi
+Chris Perkins, 915, USdollar, MoroccanDirham
+Rich Baker, 334, Ausdollar, AngolaKwanza
+Jonathan Tweet, 224, canadianDollar, SomailShilling
+Chris Pramas, 146, AUSDollar, NigerianNaira
+Bruce Cordell, 855, BritishPound, Ethiopianbirr
+Rob Schwalb, 57, usdollar, somalishilling
+Jeremy Crawford, 126, AusDollar, ghanaianCedi
+Rodney Thompson, 562, ausdollar, botswananPula
+Miranda Horner, 429, CanadianDollar, ComorianFranc
+Tom LaPille, 275, BPound, Kenyanshilling
+Mike Mearls, 421, CanadianDollar, Angolakwanza
